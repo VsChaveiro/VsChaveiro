@@ -36,3 +36,11 @@ Um teste precisa comprovar um comportamento que importa. Procuro manter rastreab
 ---
 
 Parte do meu trabalho está em repositórios privados. Os [repositórios públicos](https://github.com/VsChaveiro?tab=repositories) também guardam projetos de estudo e etapas da minha formação técnica.
+
+### Entre um teste e outro
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VsChaveiro/VsChaveiro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VsChaveiro/VsChaveiro/output/github-snake.svg" />
+  <img alt="Cobrinha percorrendo meu grafico de contribuicoes no GitHub" src="https://raw.githubusercontent.com/VsChaveiro/VsChaveiro/output/github-snake.svg" width="100%" />
+</picture>
